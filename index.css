@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.story {
+  width: 700px;
+  margin: 0 auto;
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+}
+
+.title {
+  text-transform: capitalize;
+  text-align: center;
+  margin: 2em 0;
+}
