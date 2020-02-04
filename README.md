@@ -7,7 +7,7 @@ For this assignment you will update reorder the story if Three Little Pigs and u
 
 ## Before starting the assignment make sure that:
 <ul>
-    <li>Accept the assignment 3.</li>
+    <li>Accept the assignment 4.</li>
     <li>Clone your assignment repo to your computer. (When cloning there is no need to set upstream)</li>
     <li>The only thing you need to do is <code>git clone URL-OF-REPO</code> into the folder where you want the repo.</li>
 </ul>
